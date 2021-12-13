@@ -1,6 +1,7 @@
 # news_app
 
-A new Flutter application.
+A Flutter application that showing the latest news based on your country.
+I'm only apply it on Egypt.
 
 ## Getting Started
 
