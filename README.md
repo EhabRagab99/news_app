@@ -2,3 +2,5 @@
 
 A Flutter application that showing the latest news based on your country.
 I'm only applying it on Egypt.
+
+Using flutter, Bloc and dio package.
